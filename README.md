@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppr1909
+- 👋 Hi, I’m Prasanna Raj
 - 👀 I’m interested in cloud solutions architecture with AWS
 - 🌱 I’m currently learning about core AWS services such as EC2, S3, RDS, Lambda, and VPC.
 - 💞️ I’m looking to collaborate on projects utilizing AWS services like EC2, S3, Lambda, and RDS to design and deploy cloud solutions.
